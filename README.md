@@ -7,7 +7,7 @@ en duración de películas a lo largo del tiempo.
 ## Datos
 - Fuente: DataCamp (netflix_data.csv)
 - Variables principales: título, año de estreno, duración, género, país
-- Tamaño: ~1500 filas, 7 columnas
+- Tamaño: ~1000 filas, 9 columnas
 
 ## Enfoque
 - Carga y exploración inicial del dataset con pandas
@@ -16,9 +16,8 @@ en duración de películas a lo largo del tiempo.
 - Análisis por género y subconjuntos de datos
 
 ## Principales hallazgos
-- La duración media de las películas ha disminuido en la última década
-- Los documentales tienen una duración significativamente menor que el resto
-- El género de acción concentra las películas más largas del catálogo
+- La duración más frecuente de películas en los 90 fue de X minutos
+- Se encontraron X películas de acción de corta duración en la década
 
 ## Tecnologías
 `Python` `pandas` `matplotlib`
